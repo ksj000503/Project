@@ -1,7 +1,7 @@
 #pragma once
 
 class UWorld;
-class UNtt;
+class UMob;
 
 class UFSM
 {

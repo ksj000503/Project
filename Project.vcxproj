@@ -125,12 +125,12 @@
   <ItemGroup>
     <ClCompile Include="FSM.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Ntt.cpp" />
+    <ClCompile Include="Mob.cpp" />
     <ClCompile Include="World.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FSM.h" />
-    <ClInclude Include="Ntt.h" />
+    <ClInclude Include="Mob.h" />
     <ClInclude Include="World.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
